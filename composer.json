@@ -1,0 +1,15 @@
+{
+    "name": "mateus/atividade-composer",
+    "description": "atividade",
+    "type": "no",
+    "authors": [
+        {
+            "name": "André Luis",
+            "email": "andreluis22.ap@gmail.com"
+        }
+    ],
+    "require": {
+        "endroid/qr-code": "^2.5",
+        "respect/validation": "^1.1"
+    }
+}
